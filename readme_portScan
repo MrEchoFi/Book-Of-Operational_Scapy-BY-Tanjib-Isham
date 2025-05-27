@@ -1,0 +1,2 @@
+ In this project, we will create a simple port scanner that can detect active devices and identify open ports on the network. This is a basic security task often used to map out a network and assess which services are accessible.
+ This script creates and sends TCP SYN packets to various ports on the target IP. Based on the response, it determines whether the port is open or closed
